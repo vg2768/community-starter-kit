@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+Mona project!
 
 ## What it does
 
-FEATURES PLACEHOLDER
+This project teaches newbies to learn!
 
 ## Getting started
 
